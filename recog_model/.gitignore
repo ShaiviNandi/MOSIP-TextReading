@@ -1,0 +1,4 @@
+.venv
+rvlcdip_dataset
+test_images
+enhanced_classifier_model.pth
