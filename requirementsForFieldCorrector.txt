@@ -1,0 +1,5 @@
+step one
+npm install @xenova/transformers
+
+step two
+node fieldcorrector.js
