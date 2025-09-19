@@ -1,0 +1,404 @@
+{
+  "image_path": "c:\\Users\\shaiv\\OneDrive - iiit-b\\Desktop\\IIITB\\Projects\\MOSIP Hackathon\\MOSIP-TextReading\\Images\\Handwriting\\image.png",
+  "total_regions": 35,
+  "form_fields": {
+    "First Name": "abigail",
+    "Middle Name": "resource",
+    "Last Name": "summer",
+    "Creander": "Female",
+    "Date of Birth": "read H",
+    "Address Line 1": "street H2",
+    "Address Line 2": "hsr",
+    "Bangalore": "5600068",
+    "Pin Code": "9987659110",
+    "Phone Number": "abigailo",
+    "Email ID": "general"
+  },
+  "raw_regions": {
+    "text_field_1": {
+      "value": "abigail",
+      "confidence": 0.5087153234702566,
+      "bbox": [249, 41, 399, 128],
+      "position": {
+        "x": 249,
+        "y": 41,
+        "width": 150,
+        "height": 87
+      }
+    },
+    "text_field_2": {
+      "value": "first",
+      "confidence": 0.8618639320673841,
+      "bbox": [11, 49, 105, 107],
+      "position": {
+        "x": 11,
+        "y": 49,
+        "width": 94,
+        "height": 58
+      }
+    },
+    "text_field_3": {
+      "value": "manne",
+      "confidence": 0.9270162430514916,
+      "bbox": [93, 63, 201, 103],
+      "position": {
+        "x": 93,
+        "y": 63,
+        "width": 108,
+        "height": 40
+      }
+    },
+    "text_field_4": {
+      "value": "midde",
+      "confidence": 0.9542143843861216,
+      "bbox": [10, 126, 112, 174],
+      "position": {
+        "x": 10,
+        "y": 126,
+        "width": 102,
+        "height": 48
+      }
+    },
+    "text_field_5": {
+      "value": "resource",
+      "confidence": 0.2198274567045713,
+      "bbox": [252, 126, 368, 174],
+      "position": {
+        "x": 252,
+        "y": 126,
+        "width": 116,
+        "height": 48
+      }
+    },
+    "text_field_6": {
+      "value": "norme",
+      "confidence": 0.42194807529449463,
+      "bbox": [99, 131, 195, 169],
+      "position": {
+        "x": 99,
+        "y": 131,
+        "width": 96,
+        "height": 38
+      }
+    },
+    "text_field_7": {
+      "value": "summer",
+      "confidence": 0.620571485260849,
+      "bbox": [248, 186, 400, 232],
+      "position": {
+        "x": 248,
+        "y": 186,
+        "width": 152,
+        "height": 46
+      }
+    },
+    "text_field_8": {
+      "value": "last",
+      "confidence": 0.32106180006098256,
+      "bbox": [10, 190, 88, 236],
+      "position": {
+        "x": 10,
+        "y": 190,
+        "width": 78,
+        "height": 46
+      }
+    },
+    "text_field_9": {
+      "value": "name",
+      "confidence": 0.8059299566615371,
+      "bbox": [83, 195, 181, 235],
+      "position": {
+        "x": 83,
+        "y": 195,
+        "width": 98,
+        "height": 40
+      }
+    },
+    "text_field_10": {
+      "value": "creander",
+      "confidence": 0.9526369678961698,
+      "bbox": [13, 249, 136, 301],
+      "position": {
+        "x": 13,
+        "y": 249,
+        "width": 123,
+        "height": 52
+      }
+    },
+    "text_field_11": {
+      "value": "Female",
+      "confidence": 0.9637232188460978,
+      "bbox": [246, 256, 376, 304],
+      "position": {
+        "x": 246,
+        "y": 256,
+        "width": 130,
+        "height": 48
+      }
+    },
+    "text_field_12": {
+      "value": "27-019-2000",
+      "confidence": 0.5401508847485909,
+      "bbox": [256, 289, 489, 348],
+      "position": {
+        "x": 256,
+        "y": 289,
+        "width": 233,
+        "height": 59
+      }
+    },
+    "text_field_13": {
+      "value": "birth",
+      "confidence": 0.6286349892616272,
+      "bbox": [129, 298, 230, 348],
+      "position": {
+        "x": 129,
+        "y": 298,
+        "width": 101,
+        "height": 50
+      }
+    },
+    "text_field_14": {
+      "value": "Date of",
+      "confidence": 0.25624372871220175,
+      "bbox": [15, 303, 141, 361],
+      "position": {
+        "x": 15,
+        "y": 303,
+        "width": 126,
+        "height": 58
+      }
+    },
+    "text_field_15": {
+      "value": "street H2",
+      "confidence": 0.3178199558076478,
+      "bbox": [400, 352, 572, 404],
+      "position": {
+        "x": 400,
+        "y": 352,
+        "width": 172,
+        "height": 52
+      }
+    },
+    "text_field_16": {
+      "value": "read H",
+      "confidence": 0.4511973981294378,
+      "bbox": [252, 354, 404, 407],
+      "position": {
+        "x": 252,
+        "y": 354,
+        "width": 152,
+        "height": 53
+      }
+    },
+    "text_field_17": {
+      "value": "Line 1",
+      "confidence": 0.8610179910992342,
+      "bbox": [140, 360, 238, 406],
+      "position": {
+        "x": 140,
+        "y": 360,
+        "width": 98,
+        "height": 46
+      }
+    },
+    "text_field_18": {
+      "value": "address",
+      "confidence": 0.7090559685470644,
+      "bbox": [20, 364, 144, 410],
+      "position": {
+        "x": 20,
+        "y": 364,
+        "width": 124,
+        "height": 46
+      }
+    },
+    "text_field_19": {
+      "value": "layout",
+      "confidence": 0.2362019654481539,
+      "bbox": [336, 409, 484, 482],
+      "position": {
+        "x": 336,
+        "y": 409,
+        "width": 148,
+        "height": 73
+      }
+    },
+    "text_field_20": {
+      "value": "Line 2",
+      "confidence": 0.8854212863335571,
+      "bbox": [133, 420, 254, 471],
+      "position": {
+        "x": 133,
+        "y": 420,
+        "width": 121,
+        "height": 51
+      }
+    },
+    "text_field_21": {
+      "value": "hsr",
+      "confidence": 0.25292900726484663,
+      "bbox": [256, 420, 346, 470],
+      "position": {
+        "x": 256,
+        "y": 420,
+        "width": 90,
+        "height": 50
+      }
+    },
+    "text_field_22": {
+      "value": "address",
+      "confidence": 0.5381908324976721,
+      "bbox": [16, 426, 138, 472],
+      "position": {
+        "x": 16,
+        "y": 426,
+        "width": 122,
+        "height": 46
+      }
+    },
+    "text_field_23": {
+      "value": "Bangalore",
+      "confidence": 0.2829926626983682,
+      "bbox": [133, 474, 322, 547],
+      "position": {
+        "x": 133,
+        "y": 474,
+        "width": 189,
+        "height": 73
+      }
+    },
+    "text_field_24": {
+      "value": "city",
+      "confidence": 0.2997702786978293,
+      "bbox": [20, 480, 110, 548],
+      "position": {
+        "x": 20,
+        "y": 480,
+        "width": 90,
+        "height": 68
+      }
+    },
+    "text_field_25": {
+      "value": "karnataka",
+      "confidence": 0.6472017699105165,
+      "bbox": [134, 536, 312, 584],
+      "position": {
+        "x": 134,
+        "y": 536,
+        "width": 178,
+        "height": 48
+      }
+    },
+    "text_field_26": {
+      "value": "state",
+      "confidence": 0.9851006336354036,
+      "bbox": [24, 538, 118, 586],
+      "position": {
+        "x": 24,
+        "y": 538,
+        "width": 94,
+        "height": 48
+      }
+    },
+    "text_field_27": {
+      "value": "plin code",
+      "confidence": 0.742037352384772,
+      "bbox": [28, 588, 166, 634],
+      "position": {
+        "x": 28,
+        "y": 588,
+        "width": 138,
+        "height": 46
+      }
+    },
+    "text_field_28": {
+      "value": "5600068",
+      "confidence": 0.9419162794263698,
+      "bbox": [182, 588, 326, 638],
+      "position": {
+        "x": 182,
+        "y": 588,
+        "width": 144,
+        "height": 50
+      }
+    },
+    "text_field_29": {
+      "value": "9987659110",
+      "confidence": 0.842859248156619,
+      "bbox": [278, 632, 492, 688],
+      "position": {
+        "x": 278,
+        "y": 632,
+        "width": 214,
+        "height": 56
+      }
+    },
+    "text_field_30": {
+      "value": "phone",
+      "confidence": 0.7166882715955412,
+      "bbox": [28, 638, 126, 686],
+      "position": {
+        "x": 28,
+        "y": 638,
+        "width": 98,
+        "height": 48
+      }
+    },
+    "text_field_31": {
+      "value": "mumbers",
+      "confidence": 0.4953937828540802,
+      "bbox": [117, 642, 255, 682],
+      "position": {
+        "x": 117,
+        "y": 642,
+        "width": 138,
+        "height": 40
+      }
+    },
+    "text_field_32": {
+      "value": "general",
+      "confidence": 0.45159223675727844,
+      "bbox": [332, 682, 463, 760],
+      "position": {
+        "x": 332,
+        "y": 682,
+        "width": 131,
+        "height": 78
+      }
+    },
+    "text_field_33": {
+      "value": "abigailo",
+      "confidence": 0.7338899252731649,
+      "bbox": [205, 689, 355, 760],
+      "position": {
+        "x": 205,
+        "y": 689,
+        "width": 150,
+        "height": 71
+      }
+    },
+    "text_field_34": {
+      "value": "comi",
+      "confidence": 0.9413231342766528,
+      "bbox": [455, 695, 533, 735],
+      "position": {
+        "x": 455,
+        "y": 695,
+        "width": 78,
+        "height": 40
+      }
+    },
+    "text_field_35": {
+      "value": "Email ID",
+      "confidence": 0.6249040869083191,
+      "bbox": [30, 696, 196, 748],
+      "position": {
+        "x": 30,
+        "y": 696,
+        "width": 166,
+        "height": 52
+      }
+    }
+  }
+}
