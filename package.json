@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "node-easyocr": "^1.0.9"
+  }
+}

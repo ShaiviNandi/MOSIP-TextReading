@@ -1,0 +1,31 @@
+# Core Flask dependencies
+Flask==2.3.3
+Werkzeug==2.3.7
+
+# Image processing and computer vision
+opencv-python==4.8.1.78
+Pillow==10.0.1
+numpy==1.24.3
+
+# PDF processing
+PyMuPDF==1.23.5
+
+# Machine Learning and Transformers
+torch==2.0.1
+torchvision==0.15.2
+transformers==4.33.2
+datasets==2.14.5
+
+# OCR libraries
+easyocr==1.7.0
+
+# Protobuf compatibility fix
+protobuf>=3.20.0,<4.0.0
+
+# Additional utilities
+tqdm==4.66.1
+requests==2.31.0
+
+# Development and testing (optional)
+pytest==7.4.2
+pytest-flask==1.2.0

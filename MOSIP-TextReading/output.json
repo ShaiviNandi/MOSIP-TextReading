@@ -1,578 +1,579 @@
 {
-  "image_path": "c:\\Users\\shaiv\\OneDrive - iiit-b\\Desktop\\IIITB\\Projects\\MOSIP Hackathon\\MOSIP-TextReading\\Images\\Handwriting\\image.png",
+  "image_path": "c:\\Users\\Darsh Veer Singh\\Documents\\GitHub\\MOSIP-TextReading\\MOSIP-TextReading\\Images\\Handwriting\\image.png",
   "total_regions": 35,
   "form_fields": {
-    "First Name": "abigail",
-    "Middle Name": "resource",
-    "Last Name": "summer",
-    "Creander": "Female",
-    "Date of Birth": "read H",
-    "Address Line 1": "street H2",
-    "Address Line 2": "hsr",
-    "Bangalore": "5600068",
-    "Pin Code": "9987659110",
-    "Phone Number": "abigailo",
-    "Email ID": "general"
+    "Fiust": "Abigail",
+    "Middle Name": "Guuce",
+    "Leust": "Summ4",
+    "Gundu1": "Femal",
+    "Bith": "27-092000",
+    "Datt A": "Raad 1",
+    "Address Line 1": "2",
+    "Lin 2": "HSR",
+    "Addsuess": "Laxyaud",
+    "Pin Caoe": "56006",
+    "Phom": "9987659110",
+    "Emai Td": "Abiqu@"
   },
   "raw_regions": {
     "text_field_1": {
-      "value": "abigail",
-      "confidence": 0.5087153234702566,
+      "value": "Abigail",
+      "confidence": 0.508729979046128,
       "bbox": [
-        249,
-        41,
-        399,
-        128
+        259,
+        51,
+        389,
+        118
       ],
       "position": {
-        "x": 249,
-        "y": 41,
-        "width": 150,
-        "height": 87
+        "x": 259,
+        "y": 51,
+        "width": 130,
+        "height": 67
       }
     },
     "text_field_2": {
-      "value": "first",
-      "confidence": 0.8618639320673841,
+      "value": "Fiust",
+      "confidence": 0.8623131556057007,
       "bbox": [
-        11,
-        49,
-        105,
-        107
+        21,
+        59,
+        95,
+        97
       ],
       "position": {
-        "x": 11,
-        "y": 49,
-        "width": 94,
-        "height": 58
-      }
-    },
-    "text_field_3": {
-      "value": "manne",
-      "confidence": 0.9270162430514916,
-      "bbox": [
-        93,
-        63,
-        201,
-        103
-      ],
-      "position": {
-        "x": 93,
-        "y": 63,
-        "width": 108,
-        "height": 40
-      }
-    },
-    "text_field_4": {
-      "value": "midde",
-      "confidence": 0.9542143843861216,
-      "bbox": [
-        10,
-        126,
-        112,
-        174
-      ],
-      "position": {
-        "x": 10,
-        "y": 126,
-        "width": 102,
-        "height": 48
-      }
-    },
-    "text_field_5": {
-      "value": "resource",
-      "confidence": 0.2198274567045713,
-      "bbox": [
-        252,
-        126,
-        368,
-        174
-      ],
-      "position": {
-        "x": 252,
-        "y": 126,
-        "width": 116,
-        "height": 48
-      }
-    },
-    "text_field_6": {
-      "value": "norme",
-      "confidence": 0.42194807529449463,
-      "bbox": [
-        99,
-        131,
-        195,
-        169
-      ],
-      "position": {
-        "x": 99,
-        "y": 131,
-        "width": 96,
+        "x": 21,
+        "y": 59,
+        "width": 74,
         "height": 38
       }
     },
-    "text_field_7": {
-      "value": "summer",
-      "confidence": 0.620571485260849,
+    "text_field_3": {
+      "value": "Ma",
+      "confidence": 0.9270131102087896,
       "bbox": [
-        248,
-        186,
-        400,
-        232
+        103,
+        73,
+        191,
+        93
       ],
       "position": {
-        "x": 248,
-        "y": 186,
-        "width": 152,
-        "height": 46
+        "x": 103,
+        "y": 73,
+        "width": 88,
+        "height": 20
       }
     },
-    "text_field_8": {
-      "value": "last",
-      "confidence": 0.32106180006098256,
-      "bbox": [
-        10,
-        190,
-        88,
-        236
-      ],
-      "position": {
-        "x": 10,
-        "y": 190,
-        "width": 78,
-        "height": 46
-      }
-    },
-    "text_field_9": {
-      "value": "name",
-      "confidence": 0.8059299566615371,
-      "bbox": [
-        83,
-        195,
-        181,
-        235
-      ],
-      "position": {
-        "x": 83,
-        "y": 195,
-        "width": 98,
-        "height": 40
-      }
-    },
-    "text_field_10": {
-      "value": "creander",
-      "confidence": 0.9526369678961698,
-      "bbox": [
-        13,
-        249,
-        136,
-        301
-      ],
-      "position": {
-        "x": 13,
-        "y": 249,
-        "width": 123,
-        "height": 52
-      }
-    },
-    "text_field_11": {
-      "value": "Female",
-      "confidence": 0.9637232188460978,
-      "bbox": [
-        246,
-        256,
-        376,
-        304
-      ],
-      "position": {
-        "x": 246,
-        "y": 256,
-        "width": 130,
-        "height": 48
-      }
-    },
-    "text_field_12": {
-      "value": "27-019-2000",
-      "confidence": 0.5401508847485909,
-      "bbox": [
-        256,
-        289,
-        489,
-        348
-      ],
-      "position": {
-        "x": 256,
-        "y": 289,
-        "width": 233,
-        "height": 59
-      }
-    },
-    "text_field_13": {
-      "value": "birth",
-      "confidence": 0.6286349892616272,
-      "bbox": [
-        129,
-        298,
-        230,
-        348
-      ],
-      "position": {
-        "x": 129,
-        "y": 298,
-        "width": 101,
-        "height": 50
-      }
-    },
-    "text_field_14": {
-      "value": "Date of",
-      "confidence": 0.25624372871220175,
-      "bbox": [
-        15,
-        303,
-        141,
-        361
-      ],
-      "position": {
-        "x": 15,
-        "y": 303,
-        "width": 126,
-        "height": 58
-      }
-    },
-    "text_field_15": {
-      "value": "street H2",
-      "confidence": 0.3178199558076478,
-      "bbox": [
-        400,
-        352,
-        572,
-        404
-      ],
-      "position": {
-        "x": 400,
-        "y": 352,
-        "width": 172,
-        "height": 52
-      }
-    },
-    "text_field_16": {
-      "value": "read H",
-      "confidence": 0.4511973981294378,
-      "bbox": [
-        252,
-        354,
-        404,
-        407
-      ],
-      "position": {
-        "x": 252,
-        "y": 354,
-        "width": 152,
-        "height": 53
-      }
-    },
-    "text_field_17": {
-      "value": "Line 1",
-      "confidence": 0.8610179910992342,
-      "bbox": [
-        140,
-        360,
-        238,
-        406
-      ],
-      "position": {
-        "x": 140,
-        "y": 360,
-        "width": 98,
-        "height": 46
-      }
-    },
-    "text_field_18": {
-      "value": "address",
-      "confidence": 0.7090559685470644,
+    "text_field_4": {
+      "value": "Midde",
+      "confidence": 0.9542139555241234,
       "bbox": [
         20,
-        364,
-        144,
-        410
+        136,
+        102,
+        164
       ],
       "position": {
         "x": 20,
-        "y": 364,
-        "width": 124,
-        "height": 46
+        "y": 136,
+        "width": 82,
+        "height": 28
       }
     },
-    "text_field_19": {
-      "value": "layout",
-      "confidence": 0.2362019654481539,
+    "text_field_5": {
+      "value": "Guuce",
+      "confidence": 0.2198525263158174,
       "bbox": [
-        336,
-        409,
-        484,
-        482
+        262,
+        136,
+        358,
+        164
       ],
       "position": {
-        "x": 336,
-        "y": 409,
-        "width": 148,
-        "height": 73
+        "x": 262,
+        "y": 136,
+        "width": 96,
+        "height": 28
       }
     },
-    "text_field_20": {
-      "value": "Line 2",
-      "confidence": 0.8854212863335571,
+    "text_field_6": {
+      "value": "Mone",
+      "confidence": 0.42194169759750366,
       "bbox": [
-        133,
-        420,
-        254,
-        471
+        109,
+        141,
+        185,
+        159
       ],
       "position": {
-        "x": 133,
-        "y": 420,
-        "width": 121,
-        "height": 51
+        "x": 109,
+        "y": 141,
+        "width": 76,
+        "height": 18
       }
     },
-    "text_field_21": {
-      "value": "hsr",
-      "confidence": 0.25292900726484663,
+    "text_field_7": {
+      "value": "Summ4",
+      "confidence": 0.6207405147458733,
+      "bbox": [
+        258,
+        196,
+        390,
+        222
+      ],
+      "position": {
+        "x": 258,
+        "y": 196,
+        "width": 132,
+        "height": 26
+      }
+    },
+    "text_field_8": {
+      "value": "Leust",
+      "confidence": 0.3210107128132591,
+      "bbox": [
+        20,
+        200,
+        78,
+        226
+      ],
+      "position": {
+        "x": 20,
+        "y": 200,
+        "width": 58,
+        "height": 26
+      }
+    },
+    "text_field_9": {
+      "value": "Mame",
+      "confidence": 0.8221732974052429,
+      "bbox": [
+        95,
+        207,
+        171,
+        225
+      ],
+      "position": {
+        "x": 95,
+        "y": 207,
+        "width": 76,
+        "height": 18
+      }
+    },
+    "text_field_10": {
+      "value": "Gundu1",
+      "confidence": 0.9526255257958771,
+      "bbox": [
+        23,
+        259,
+        126,
+        291
+      ],
+      "position": {
+        "x": 23,
+        "y": 259,
+        "width": 103,
+        "height": 32
+      }
+    },
+    "text_field_11": {
+      "value": "Femal",
+      "confidence": 0.9637241826568088,
       "bbox": [
         256,
-        420,
-        346,
-        470
+        266,
+        366,
+        294
       ],
       "position": {
         "x": 256,
-        "y": 420,
-        "width": 90,
-        "height": 50
+        "y": 266,
+        "width": 110,
+        "height": 28
       }
     },
-    "text_field_22": {
-      "value": "address",
-      "confidence": 0.5381908324976721,
+    "text_field_12": {
+      "value": "27-092000",
+      "confidence": 0.5400287462128514,
       "bbox": [
-        16,
-        426,
-        138,
+        266,
+        299,
+        479,
+        338
+      ],
+      "position": {
+        "x": 266,
+        "y": 299,
+        "width": 213,
+        "height": 39
+      }
+    },
+    "text_field_13": {
+      "value": "Bith",
+      "confidence": 0.6286194324493408,
+      "bbox": [
+        139,
+        308,
+        220,
+        338
+      ],
+      "position": {
+        "x": 139,
+        "y": 308,
+        "width": 81,
+        "height": 30
+      }
+    },
+    "text_field_14": {
+      "value": "Datt a",
+      "confidence": 0.2562136738281467,
+      "bbox": [
+        25,
+        313,
+        131,
+        351
+      ],
+      "position": {
+        "x": 25,
+        "y": 313,
+        "width": 106,
+        "height": 38
+      }
+    },
+    "text_field_15": {
+      "value": "2",
+      "confidence": 0.31774562033850584,
+      "bbox": [
+        410,
+        362,
+        562,
+        394
+      ],
+      "position": {
+        "x": 410,
+        "y": 362,
+        "width": 152,
+        "height": 32
+      }
+    },
+    "text_field_16": {
+      "value": "Raad 1",
+      "confidence": 0.45065663055725963,
+      "bbox": [
+        262,
+        364,
+        394,
+        397
+      ],
+      "position": {
+        "x": 262,
+        "y": 364,
+        "width": 132,
+        "height": 33
+      }
+    },
+    "text_field_17": {
+      "value": "Lin",
+      "confidence": 0.8610353554381697,
+      "bbox": [
+        150,
+        370,
+        228,
+        396
+      ],
+      "position": {
+        "x": 150,
+        "y": 370,
+        "width": 78,
+        "height": 26
+      }
+    },
+    "text_field_18": {
+      "value": "Aderess",
+      "confidence": 0.7090956415432333,
+      "bbox": [
+        30,
+        374,
+        134,
+        400
+      ],
+      "position": {
+        "x": 30,
+        "y": 374,
+        "width": 104,
+        "height": 26
+      }
+    },
+    "text_field_19": {
+      "value": "Laxyaud",
+      "confidence": 0.23625608121803726,
+      "bbox": [
+        346,
+        419,
+        474,
         472
       ],
       "position": {
-        "x": 16,
-        "y": 426,
-        "width": 122,
-        "height": 46
+        "x": 346,
+        "y": 419,
+        "width": 128,
+        "height": 53
+      }
+    },
+    "text_field_20": {
+      "value": "Lin 2",
+      "confidence": 0.8854257369007457,
+      "bbox": [
+        143,
+        430,
+        244,
+        461
+      ],
+      "position": {
+        "x": 143,
+        "y": 430,
+        "width": 101,
+        "height": 31
+      }
+    },
+    "text_field_21": {
+      "value": "HSR",
+      "confidence": 0.2528679237739162,
+      "bbox": [
+        266,
+        430,
+        336,
+        460
+      ],
+      "position": {
+        "x": 266,
+        "y": 430,
+        "width": 70,
+        "height": 30
+      }
+    },
+    "text_field_22": {
+      "value": "Addsuess",
+      "confidence": 0.5381900698163604,
+      "bbox": [
+        26,
+        436,
+        128,
+        462
+      ],
+      "position": {
+        "x": 26,
+        "y": 436,
+        "width": 102,
+        "height": 26
       }
     },
     "text_field_23": {
-      "value": "Bangalore",
-      "confidence": 0.2829926626983682,
+      "value": "Banplar",
+      "confidence": 0.28297078621696486,
       "bbox": [
-        133,
-        474,
-        322,
-        547
+        143,
+        484,
+        312,
+        537
       ],
       "position": {
-        "x": 133,
-        "y": 474,
-        "width": 189,
-        "height": 73
+        "x": 143,
+        "y": 484,
+        "width": 169,
+        "height": 53
       }
     },
     "text_field_24": {
       "value": "city",
-      "confidence": 0.2997702786978293,
+      "confidence": 0.29987670950802175,
       "bbox": [
-        20,
-        480,
-        110,
-        548
+        30,
+        490,
+        100,
+        538
       ],
       "position": {
-        "x": 20,
-        "y": 480,
-        "width": 90,
-        "height": 68
+        "x": 30,
+        "y": 490,
+        "width": 70,
+        "height": 48
       }
     },
     "text_field_25": {
-      "value": "karnataka",
-      "confidence": 0.6472017699105165,
+      "value": "Kanctaha",
+      "confidence": 0.6473591785361982,
       "bbox": [
-        134,
-        536,
-        312,
-        584
+        144,
+        546,
+        302,
+        574
       ],
       "position": {
-        "x": 134,
-        "y": 536,
-        "width": 178,
-        "height": 48
+        "x": 144,
+        "y": 546,
+        "width": 158,
+        "height": 28
       }
     },
     "text_field_26": {
-      "value": "state",
-      "confidence": 0.9851006336354036,
+      "value": "State",
+      "confidence": 0.9851032505564529,
       "bbox": [
-        24,
-        538,
-        118,
-        586
+        34,
+        548,
+        108,
+        576
       ],
       "position": {
-        "x": 24,
-        "y": 538,
-        "width": 94,
-        "height": 48
+        "x": 34,
+        "y": 548,
+        "width": 74,
+        "height": 28
       }
     },
     "text_field_27": {
-      "value": "plin code",
-      "confidence": 0.742037352384772,
+      "value": "Pin Caoe",
+      "confidence": 0.7418369074559377,
       "bbox": [
-        28,
-        588,
-        166,
-        634
+        38,
+        598,
+        156,
+        624
       ],
       "position": {
-        "x": 28,
-        "y": 588,
-        "width": 138,
-        "height": 46
+        "x": 38,
+        "y": 598,
+        "width": 118,
+        "height": 26
       }
     },
     "text_field_28": {
-      "value": "5600068",
-      "confidence": 0.9419162794263698,
+      "value": "56006",
+      "confidence": 0.9418938833158781,
       "bbox": [
-        182,
-        588,
-        326,
-        638
+        192,
+        598,
+        316,
+        628
       ],
       "position": {
-        "x": 182,
-        "y": 588,
-        "width": 144,
-        "height": 50
+        "x": 192,
+        "y": 598,
+        "width": 124,
+        "height": 30
       }
     },
     "text_field_29": {
       "value": "9987659110",
-      "confidence": 0.842859248156619,
+      "confidence": 0.8428634532676137,
       "bbox": [
-        278,
-        632,
-        492,
-        688
+        288,
+        642,
+        482,
+        678
       ],
       "position": {
-        "x": 278,
-        "y": 632,
-        "width": 214,
-        "height": 56
+        "x": 288,
+        "y": 642,
+        "width": 194,
+        "height": 36
       }
     },
     "text_field_30": {
-      "value": "phone",
-      "confidence": 0.7166882715955412,
+      "value": "Phom",
+      "confidence": 0.7167041857059658,
       "bbox": [
-        28,
-        638,
-        126,
-        686
+        38,
+        648,
+        116,
+        676
       ],
       "position": {
-        "x": 28,
-        "y": 638,
-        "width": 98,
-        "height": 48
+        "x": 38,
+        "y": 648,
+        "width": 78,
+        "height": 28
       }
     },
     "text_field_31": {
-      "value": "mumbers",
-      "confidence": 0.4953937828540802,
+      "value": "mmb",
+      "confidence": 0.4956030249595642,
       "bbox": [
-        117,
-        642,
-        255,
-        682
+        127,
+        652,
+        245,
+        672
       ],
       "position": {
-        "x": 117,
-        "y": 642,
-        "width": 138,
-        "height": 40
+        "x": 127,
+        "y": 652,
+        "width": 118,
+        "height": 20
       }
     },
     "text_field_32": {
-      "value": "general",
-      "confidence": 0.45159223675727844,
+      "value": "Iait",
+      "confidence": 0.4516236484050751,
       "bbox": [
-        332,
-        682,
-        463,
-        760
+        342,
+        692,
+        453,
+        750
       ],
       "position": {
-        "x": 332,
-        "y": 682,
-        "width": 131,
-        "height": 78
+        "x": 342,
+        "y": 692,
+        "width": 111,
+        "height": 58
       }
     },
     "text_field_33": {
-      "value": "abigailo",
-      "confidence": 0.7338899252731649,
+      "value": "Abiqu@",
+      "confidence": 0.7338969684166322,
       "bbox": [
-        205,
-        689,
-        355,
-        760
+        215,
+        699,
+        345,
+        750
       ],
       "position": {
-        "x": 205,
-        "y": 689,
-        "width": 150,
-        "height": 71
+        "x": 215,
+        "y": 699,
+        "width": 130,
+        "height": 51
       }
     },
     "text_field_34": {
-      "value": "comi",
-      "confidence": 0.9413231342766528,
+      "value": "cem",
+      "confidence": 0.9413224515747575,
       "bbox": [
-        455,
-        695,
-        533,
-        735
+        465,
+        705,
+        523,
+        725
       ],
       "position": {
-        "x": 455,
-        "y": 695,
-        "width": 78,
-        "height": 40
+        "x": 465,
+        "y": 705,
+        "width": 58,
+        "height": 20
       }
     },
     "text_field_35": {
-      "value": "Email ID",
-      "confidence": 0.6249040869083191,
+      "value": "emai Td",
+      "confidence": 0.6248182532172718,
       "bbox": [
-        30,
-        696,
-        196,
-        748
+        40,
+        706,
+        186,
+        738
       ],
       "position": {
-        "x": 30,
-        "y": 696,
-        "width": 166,
-        "height": 52
+        "x": 40,
+        "y": 706,
+        "width": 146,
+        "height": 32
       }
     }
   }
